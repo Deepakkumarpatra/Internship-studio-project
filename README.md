@@ -1,7 +1,3 @@
-# Internship-studio-project
-
-# Vulnerability Assessment Project (Completed)
-
 ## Project Description
 
 This project was conducted three years ago with the goal of performing a comprehensive vulnerability assessment of the website [zero.webappsecurity.com](http://zero.webappsecurity.com/) using Netsparker, a web application security scanner. The primary objective was to identify and document all potential vulnerabilities and loopholes that may pose a security risk to the website.
